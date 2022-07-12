@@ -7,7 +7,7 @@
     <VerticalStackLayout HorizontalOptions="Center"
                          VerticalOptions="Center"
                          Spacing="15">
-        <Label x:Name="counterLabelHello" 
+        <Label x:Name="counterLabel" 
                Text="Count: 0"
                FontSize="50"
                HorizontalTextAlignment="Center"/>
